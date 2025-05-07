@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "ethsage-frontend",
+      "name": "token-factory-frontend",
       "dependencies": {
         "@astrojs/tailwind": "6.0.2",
         "astro": "5.7.10",

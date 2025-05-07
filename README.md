@@ -16,11 +16,10 @@ config file
 ```json
 {
   "mcpServers": {
-    "mcp-server": {
+    "token-factory-mcp": {
       "command": "node",
       "args": ["/tmp/token-factory-mcp/server/build/index.js"]
     }
   }
 }
-
 ```

@@ -21,7 +21,7 @@ This project was created using `bun init` in bun v1.2.9. [Bun](https://bun.sh) i
   "mcpServers": {
     "mcp-server": {
       "command": "node",
-      "args": ["/tmp/EthSage/server/build/index.js"]
+      "args": ["/tmp/token-factory/server/build/index.js"]
     }
   }
 }

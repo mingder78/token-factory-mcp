@@ -5,7 +5,7 @@ async function main() {
     try {
         // إنشاء السيرفر
         const server = new McpServer({
-            name: "EthSage MCP Agent",
+            name: "token-factory MCP Agent",
             version: "0.0.1",
         });
         // إنشاء الأداة
@@ -14,7 +14,7 @@ async function main() {
                 content: [
                     {
                         type: "text",
-                        text: "👋 Hello from MCP Agent!",
+                        text: "👋 Hello from MCP Agent factory2!",
                     },
                 ],
             };
