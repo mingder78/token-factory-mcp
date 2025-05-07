@@ -18,7 +18,7 @@ config file
   "mcpServers": {
     "mcp-server": {
       "command": "node",
-      "args": ["/tmp/EthSage/server/build/index.js"]
+      "args": ["/tmp/token-factory-mcp/server/build/index.js"]
     }
   }
 }
